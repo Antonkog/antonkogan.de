@@ -7,7 +7,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "AKCV.dll": "sha256-eQjTS32FRzfNtr17ogb+nwj5zsw1zCckVd4ZN57zGew=",
+      "AKCV.dll": "sha256-GfmwvKqfoTGBUU4zG+ef67AdDoep7IvHKmqWMT53NGw=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-z4GZC8zBP0+3qTsoIBdCEOvwWaWDTpt8U1vr1aLEkI4=",
       "Microsoft.AspNetCore.Components.dll": "sha256-2+8AH28qnJdxAcSZ0HYdiGuZzHwXNI1gFtZz71zMhDc=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-9hS0lH\/KHwdR5UrpgTsTuXn3Q25Lo5YfMdkNS9eU2gk=",
